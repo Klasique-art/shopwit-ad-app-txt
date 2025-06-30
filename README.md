@@ -1,1 +1,0 @@
-"# shopwit-ad-app-txt" 
